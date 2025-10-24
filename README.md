@@ -35,7 +35,7 @@
 <h2>📁 Data Source</h2>
 <p>
   The dataset used in this project can be accessed from the following link:<br>
-  <a href="https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv" target="_blank"><b>🌐 Global Layoffs Dataset (Kaggle)</b></a>
+  <a href="https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv" target="_blank"><b>🌐 Global Layoffs Dataset</b></a>
 </p>
 
 <h2>🧭 How to Use</h2>
